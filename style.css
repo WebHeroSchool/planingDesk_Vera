@@ -1,0 +1,22 @@
+/*css*/
+.start {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  color: black;
+}
+.first {
+  font-family: 'Pacifico', cursive;
+  color: green;
+}
+.description {
+  font-family: 'Yeseva One', cursive;
+  color: navy;
+}
+[href] {
+  color: purple;
+}
+.end {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: black
+  }
