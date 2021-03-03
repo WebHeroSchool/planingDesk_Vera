@@ -1,22 +1,23 @@
 /*css*/
-.start {
+.header__title {
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
+  font-size: 25px;
   color: black;
 }
-.first {
+.main-content__title {
   font-family: 'Pacifico', cursive;
   color: green;
 }
-.description {
+.main-content__description {
   font-family: 'Yeseva One', cursive;
   color: navy;
 }
-[href] {
+.menu__item {
   color: purple;
 }
-.end {
+.footer {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: black
-  }
+}
