@@ -1,5 +1,5 @@
 /*css*/
-.header__title {
+.logo {
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
   font-size: 25px;
@@ -20,4 +20,10 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: black
+}
+.main-content__button {
+  background:pink;
+}
+.image-content__image {
+  margin:10%;
 }
