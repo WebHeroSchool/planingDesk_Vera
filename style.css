@@ -1,0 +1,29 @@
+/*css*/
+.logo {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 25px;
+  color: black;
+}
+.main-content__title {
+  font-family: 'Pacifico', cursive;
+  color: green;
+}
+.main-content__description {
+  font-family: 'Yeseva One', cursive;
+  color: navy;
+}
+.menu__item {
+  color: purple;
+}
+.footer {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: black
+}
+.main-content__button {
+  background:pink;
+}
+.image-content__image {
+  margin:10%;
+}
