@@ -1,29 +1,31 @@
 /*css*/
+body {
+  margin: 0;
+}
+.wrapper {
+  margin: auto;
+  width: 80%;
+  border: dashed 1px red;
+}
+.header {
+  display:flex;
+  justify-content:space-between;
+}
+.logo, .menu {
+  display: inline-block;
+  border: dashed 1px red;
+}
 .logo {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 900;
-  font-size: 25px;
-  color: black;
-}
-.main-content__title {
-  font-family: 'Pacifico', cursive;
-  color: green;
-}
-.main-content__description {
-  font-family: 'Yeseva One', cursive;
-  color: navy;
-}
-.menu__item {
-  color: purple;
-}
-.footer {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  color: black
-}
-.main-content__button {
-  background:pink;
-}
-.image-content__image {
-  margin:10%;
-}
+  padding: 40px 0;
+ }
+ .menu {
+   display: flex;
+   align-items: center;
+ }
+ .menu__item {
+   padding: 0 13px;
+   border: dashed 1px red;
+ }
+ .menu__item:last-child {
+   padding-right: 0;
+ }
