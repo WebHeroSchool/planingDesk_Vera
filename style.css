@@ -49,6 +49,7 @@ body {
    text-decoration: none;
    transition: opacity .5s;
  }
+
  .menu__item:last-child {
    margin-right: 0;
  }
