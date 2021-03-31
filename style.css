@@ -134,6 +134,7 @@ body {
 .main__button:hover {
   opacity: .5s;
 }
+
 .main__subtitle-text_highlight {
   background: #ECF3FF;
 }
