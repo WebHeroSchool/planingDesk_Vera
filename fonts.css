@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'pt_serif';
+    font-family: 'PT_serif';
     src: url('fonts/ptserif-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
@@ -145,7 +145,7 @@
 
 
 @font-face {
-    font-family: 'roboto';
+    font-family: 'Roboto';
     src: url('fonts/roboto-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
