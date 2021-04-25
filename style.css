@@ -5,7 +5,7 @@ body {
 
 .wrapper {
   margin: auto;
-  width: 79.3%;
+  width: 79%;
 }
 
 .logo, .menu {
@@ -110,13 +110,13 @@ body {
 
 .main__title {
   position: relative;
-  margin: 0 179px 31px 0;
+  margin: 0 0 31px 0;
   padding-top: 73px;
   font: 700 66px/87px 'PT serif', arial, helvetica, sans-serif;
 }
 
 .main__subtitle {
-  margin: 0 290px 41px 0px;
+  margin: 0 0 41px 0;
   font: normal 22px/28px 'Roboto', arial, helvetica, sans-serif;
 }
 
