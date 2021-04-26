@@ -23,7 +23,7 @@ body {
   padding: 40px 0;
   padding-left: 44px;
   margin-left: 1px;
-  font: bold 24px/32px 'PT serif', arial, helvetica, sans-serif;
+  font: bold 24px/32px 'pt_serifbold', arial, helvetica, sans-serif;
 }
 
 .logo__circle {
@@ -125,10 +125,10 @@ body {
 
 .main__button {
   display: inline-block;
-  font: 500 18px/21px 'Roboto', arial, helvetica, sans-serif;
+  font: 500 18px/21px 'Robotomedium', arial, helvetica, sans-serif;
   color:#fff;
   background: #0056EC;
-  padding: 18px 30px;
+  padding: 18px 35px 18px 21px;
   margin-left: 1px;
   text-decoration: none;
   border-radius: 4px;
